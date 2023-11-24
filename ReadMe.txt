@@ -1,0 +1,1 @@
+para hacer funcionar los servicios solo se necesita configurar con la base de datos usuario y contraseña del lado del properties de shoppingcart-svc la base de datos que adjunto es en mysql dentro del proyecto estara el back de la base que utilice para que pueda ser importado 
